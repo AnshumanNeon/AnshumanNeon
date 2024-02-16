@@ -21,4 +21,7 @@
 #
 # Stats
 
-[![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshumanNeon&show_icons=true&theme=dark)](https://github.com/AnshumanNeon/github-readme-stats)
+<div style='display: flex; flex-direction: row;'>
+<img class='img' src='https://github-readme-stats.vercel.app/api?username=AnshumanNeon&show_icons=true&theme=onedark&border_radius=4.5' />
+<img class='img' src='https://streak-stats.demolab.com/?user=AnshumanNeon&theme=onedark&border_radius=4.5' />
+</div>
