@@ -4,6 +4,9 @@
 # Quote for you
 <img alt='vagabond_quote' src='./assets/vagabond.png' height=400/>
 
+# Dev card
+<a href="https://app.daily.dev/anshumanneon"><img src="https://api.daily.dev/devcards/v2/jWqogGRLwtjdrt1t62RGE.png?r=6w9&type=default" width="356" alt="Anshuman's Dev Card"/></a>
+
 # Tech stack
 
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
