@@ -2,7 +2,7 @@
 <h4 align='center'>Hi there! 👋</h4>
 
 # Quote for you
-<img alt='vagabond_quote' src='./assets/vagabond.jpg' height=400/>
+<img alt='vagabond_quote' src='./assets/vagabond.png' height=400/>
 
 # Tech stack
 
