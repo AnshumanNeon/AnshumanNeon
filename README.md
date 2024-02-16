@@ -26,3 +26,6 @@
 <img class='img' src='https://streak-stats.demolab.com/?user=AnshumanNeon&theme=onedark&border_radius=4.5' />
 <img class='img' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanNeon&theme=onedark&border_radius=4.5' />
 </div>
+
+# Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnshumanNeon&theme=onedark&rank=B,C,AAA,AA,A,SSS,SS,S,SECRET)](https://github.com/AnshumanNeon/github-profile-trophy)
