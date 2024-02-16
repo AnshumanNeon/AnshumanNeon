@@ -4,7 +4,7 @@
 # Quote for you
 <img alt='vagabond_quote' src='./assets/vagabond.jpg' height=400/>
 
-# Languages
+# Tech stack
 
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -24,4 +24,5 @@
 <div style='display: flex; flex-direction: row;'>
 <img class='img' src='https://github-readme-stats.vercel.app/api?username=AnshumanNeon&show_icons=true&theme=onedark&border_radius=4.5' />
 <img class='img' src='https://streak-stats.demolab.com/?user=AnshumanNeon&theme=onedark&border_radius=4.5' />
+<img class='img' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanNeon&theme=onedark&border_radius=4.5' />
 </div>
