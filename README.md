@@ -1,13 +1,10 @@
 <h1 align='center'>AnshumanNeon</h1>
-<h4 align='center'>Hi there! 👋</h4>
+<div align='center'><img alt='vagabond_quote' src='./assets/vagabond.png' height=400/></div>
 
-# Quote for you
-<img alt='vagabond_quote' src='./assets/vagabond.png' height=400/>
+<h2 align='center'>Dev card</h2>
+<div align='center'><a href="https://app.daily.dev/anshumanneon"><img src="https://api.daily.dev/devcards/v2/jWqogGRLwtjdrt1t62RGE.png?r=6w9&type=default" width="356" alt="Anshuman's Dev Card"/></a></div>
 
-# Dev card
-<a href="https://app.daily.dev/anshumanneon"><img src="https://api.daily.dev/devcards/v2/jWqogGRLwtjdrt1t62RGE.png?r=6w9&type=default" width="356" alt="Anshuman's Dev Card"/></a>
-
-# Tech stack
+## Tech stack
 
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -22,7 +19,7 @@
 <br />
 
 #
-# Stats
+## Stats
 
 <div style='display: flex; flex-direction: row;'>
 <img class='img' width="400px" src='https://github-readme-stats.vercel.app/api?username=AnshumanNeon&show_icons=true&theme=onedark&border_radius=4.5' />
@@ -30,5 +27,5 @@
 <img class='img' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanNeon&theme=onedark&border_radius=4.5' />
 </div>
 
-# Trophies
+## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnshumanNeon&theme=onedark&rank=B,C,AAA,AA,A,SSS,SS,S,SECRET)](https://github.com/AnshumanNeon/github-profile-trophy)
