@@ -1,6 +1,13 @@
 <h1 align='center'>AnshumanNeon</h1>
 <div align='center'><img alt='vagabond_quote' src='./assets/vagabond.png' height=400/></div>
 
+<br />
+
+<div align='center'>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=40&color=61afef&height=60&width=450&center=true&lines=You+Are+Powerful!)](https://git.io/typing-svg)
+</div>
+
 <h2 align='center'>Dev card</h2>
 <div align='center'><a href="https://app.daily.dev/anshumanneon"><img src="https://api.daily.dev/devcards/v2/jWqogGRLwtjdrt1t62RGE.png?r=6w9&type=default" width="356" alt="Anshuman's Dev Card"/></a></div>
 
