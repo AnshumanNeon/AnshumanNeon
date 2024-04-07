@@ -8,24 +8,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?size=40&color=61afef&height=60&width=450&center=true&lines=You+Are+Powerful!)](https://git.io/typing-svg)
 </div>
 
-<h2 align='center'>Dev card</h2>
-<div align='center'><a href="https://app.daily.dev/anshumanneon"><img src="https://api.daily.dev/devcards/v2/jWqogGRLwtjdrt1t62RGE.png?r=6w9&type=default" width="356" alt="Anshuman's Dev Card"/></a></div>
-
 ## Tech stack
 
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <br />
 
-#
 ## Stats
 
 <div style='display: flex; flex-direction: row;'>
