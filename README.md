@@ -1,7 +1,4 @@
 <h1 align='center'>AnshumanNeon</h1>
-<div align='center'><img alt='vagabond_quote' src='./assets/vagabond.png' height=400/></div>
-
-<br />
 
 <div align='center'>
   
