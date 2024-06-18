@@ -1,6 +1,6 @@
 <h1 align='center'>AnshumanNeon</h1>
 
-Hello Everyone! I am Anshuman. A fellow programmer from India who tries his hands at everything he can. I have both emacs and nvim on my machine (think of this what you want). I mostly do projects that interest me a lot. 
+Hello Everyone! I am Anshuman. A fellow programmer from India who tries his hands at everything he can. I mostly use and like emacs but also neovim. I only do projects that interest me.
 
 ## Tech stack
 
