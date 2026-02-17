@@ -22,6 +22,13 @@ Hello Everyone! I am Anshuman. A fellow programmer from India who tries his hand
 <img align='left' width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
+## Projects I Made
+
+[carnival-tracer](https://github.com/AnshumanNeon/carnival-tracer): a ray tracer in C
+[cvector](https://github.com/AnshumanNeon/cvector): a vector library in C
+[havoc](https://github.com/AnshumanNeon/havoc): A memory allocator
+[Halo](https://github.com/AnshumanNeon/Halo): a command line password manager in python
+
 ## Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AnshumanNeon?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
