@@ -24,10 +24,10 @@ Hello Everyone! I am Anshuman. A fellow programmer from India who tries his hand
 
 ## Projects I Made
 
-[carnival-tracer](https://github.com/AnshumanNeon/carnival-tracer): a ray tracer in C
-[cvector](https://github.com/AnshumanNeon/cvector): a vector library in C
-[havoc](https://github.com/AnshumanNeon/havoc): A memory allocator
-[Halo](https://github.com/AnshumanNeon/Halo): a command line password manager in python
+[carnival-tracer](https://github.com/AnshumanNeon/carnival-tracer): A ray tracer in C <br/>
+[cvector](https://github.com/AnshumanNeon/cvector): A vector library in C <br/>
+[havoc](https://github.com/AnshumanNeon/havoc): A memory allocator <br/>
+[Halo](https://github.com/AnshumanNeon/Halo): A command line password manager in python <br/>
 
 ## Stats
 
