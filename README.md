@@ -26,7 +26,6 @@ Hello Everyone! I am Anshuman. A fellow programmer from India who tries his hand
 
 [carnival-tracer](https://github.com/AnshumanNeon/carnival-tracer): A ray tracer in C <br/>
 [cvector](https://github.com/AnshumanNeon/cvector): A vector library in C <br/>
-[havoc](https://github.com/AnshumanNeon/havoc): A memory allocator <br/>
 [Halo](https://github.com/AnshumanNeon/Halo): A command line password manager in python <br/>
 
 ## Stats
